@@ -1,0 +1,12 @@
+{
+    "svn.ignoreMissingSvnWarning": true,
+    "java.configuration.runtimes": [
+        {
+              "name": "JavaSE-17",
+              "path": "C:\\jdk\\jdk-17.0.7+7"
+        }
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.dependency.packagePresentation": "hierarchical"
+}
